@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author melis
+ *
+ */
+module FactoryMethod {
+}
