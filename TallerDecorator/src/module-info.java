@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kathe
+ *
+ */
+module TallerDecorator {
+}
